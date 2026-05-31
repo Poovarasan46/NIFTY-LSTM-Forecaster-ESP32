@@ -30,17 +30,17 @@ Adafruit_ST7735 tft =
 // =====================================
 
 const char* ssid =
-    "My wifi";
+    "YOUR_WIFI_NAME";
 
 const char* password =
-    "wifi216468";
+    "YOUR_WIFI_PASSWORD";
 
 // =====================================
 // FLASK SERVER
 // =====================================
 
 const char* serverURL =
-    "http://192.168.1.5:5000/predict";
+    "http://YOUR_SERVER_IP:5000/predict";
 
 // =====================================
 // VARIABLES
