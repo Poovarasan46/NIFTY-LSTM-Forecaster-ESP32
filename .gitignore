@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# PlatformIO
+esp32/.pio/
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
